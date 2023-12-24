@@ -31,7 +31,7 @@ c=a
 print("Swapped values are:",a,b)
 ```
 ## OUTPUT:
-![Screenshot 2023-11-18 142317](https://github.com/SanjayBalaji0/Swapping-two-values/assets/145533553/18b0a429-450f-4386-a5b0-025c3d86f798)
+ ![Screenshot 2023-11-18 142317](https://github.com/SanjayBalaji0/Swapping-two-values/assets/145533553/d30f0769-67e9-418f-95d2-ecdff81488f9)
 
 
 
